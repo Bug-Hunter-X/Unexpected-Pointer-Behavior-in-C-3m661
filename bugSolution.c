@@ -1,0 +1,1 @@
+int main() { int x = 10; int *ptr = &x;  // Using a const pointer to prevent modification *ptr = 20;  printf("%d", x); return 0; }
