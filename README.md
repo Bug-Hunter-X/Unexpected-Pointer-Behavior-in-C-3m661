@@ -1,0 +1,1 @@
+This repository contains a simple C program that showcases a common yet easily overlooked pointer behavior.  The program demonstrates how direct pointer manipulation can alter the value of a variable.  The solution provides a more robust approach to handling pointers and explains the underlying concept.
